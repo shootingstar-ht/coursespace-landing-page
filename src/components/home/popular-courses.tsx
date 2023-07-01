@@ -95,14 +95,14 @@ const HomePopularCourse: FC = () => {
             <Box
               sx={{
                 height: '100%',
-                width: { xs: '100%', md: '90%' },
+                width: { xs: '100%', md: '95%' },
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: { xs: 'center', md: 'flex-start' },
               }}
             >
               <Typography variant="h1" sx={{ mt: { xs: 0, md: -5 }, fontSize: { xs: 30, md: 48 } }}>
-                Most Popular Courses
+                Một số phương pháp xử lý phổ biến
               </Typography>
             </Box>
           </Grid>
